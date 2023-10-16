@@ -9,11 +9,11 @@
 These are the repositorios i'm working on at the moment:
 
 <div align="center"> 
-<a href="//github.com/artuenric/Quantum-Circuits"> 
-  <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=artuenric&repo=Quantum-Circuits&theme=merko&title_color=58A348">
+<a href="//github.com/artuenric/rinha"> 
+  <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=artuenric&repo=rinha&theme=merko&title_color=58A348">
 </a>
-<a href="//github.com/artuenric/CS50"> 
-<img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=artuenric&repo=CS50&theme=merko&title_color=58A348">
+<a href="//github.com/artuenric/QuNetSim"> 
+<img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=artuenric&repo=QuNetSim&theme=merko&title_color=58A348">
 </a> 
 </div>
 

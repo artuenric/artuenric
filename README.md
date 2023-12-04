@@ -12,7 +12,7 @@ These are the repositorios i'm working on at the moment:
 <a href="//github.com/artuenric/rinha"> 
   <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=artuenric&repo=rinha&theme=merko&title_color=58A348">
 </a>
-<a href="//github.com/artuenric/QuNetSim"> 
+<a href="//github.com/artuenric/Simulacoes-QKD"> 
 <img width=46% src="https://github-readme-stats.vercel.app/api/pin/?username=artuenric&repo=Simulacoes-QKD&theme=merko&title_color=58A348">
 </a> 
 </div>

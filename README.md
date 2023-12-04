@@ -2,7 +2,7 @@
 # 📈 Stats
 <div align="center">
 <img height=180px src="https://github-readme-stats.vercel.app/api?username=artuenric&show_icons=true&count_private=true&theme=merko&title_color=58A348">
-<img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuenric&theme=merko&title_color=58A348&include_all_commits=true&count_private=true&layout=compact">
+<img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuenric&theme=merko&title_color=58A348&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
 # 📂 Repositories

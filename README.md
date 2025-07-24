@@ -1,10 +1,23 @@
 # Meu nome é Arthur!
 Sou estudante de Ciência da Computação na UFPA. Atuo como bolsista no laboratoório de pesquisa GERCOM. Aqui reúno meus projetos tanto pessoais, quanto profissionais e acadêmicos. 
 
+## 🚩 Contato
+Você pode me contatar pelos seguintes canais:
+<div align="left">
+  <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:artuenrick@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+
 ## 💻 Tecnologias
 Atualmente, direciono maior atenção nas seguintes tecnologias:
 <br>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -23,10 +36,3 @@ Atualmente, direciono maior atenção nas seguintes tecnologias:
   <img src="https://github-contributor-stats.vercel.app/api?username=artuenric&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuenric&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artuenric/artuenric/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artuenric/artuenric/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/artuenric/artuenric/output/pacman-contribution-graph.svg">
-</picture>

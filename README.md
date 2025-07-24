@@ -3,21 +3,21 @@ Sou estudante de Ciência da Computação na UFPA. Atuo como bolsista no laborat
 
 ## 🚩 Contato
 Você pode me contatar pelos seguintes canais:
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="60" alt="linkedin logo" />
   </a>
-
+  <img width="20" />
   <a href="mailto:artuenrick@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="60" alt="gmail logo" />
+    </a>
 </div>
 
 
 ## 💻 Tecnologias
 Atualmente, direciono maior atenção nas seguintes tecnologias:
 <br>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />

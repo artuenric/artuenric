@@ -28,11 +28,3 @@ Atualmente, direciono maior atenção nas seguintes tecnologias:
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="jetpackcompose logo"  />
 </div>
-
-## 📊 Estatísticas do GitHub:
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=artuenric&theme=vue-dark&hide_border=false&hide_rank=true&include_all_commits=false&count_private=true" height="200" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=artuenric&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuenric&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</div>

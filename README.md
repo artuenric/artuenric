@@ -36,12 +36,12 @@ Você pode me contatar pelos seguintes canais:
 <p align="center">
   <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" valign="middle" alt="LinkedIn logo" />
-    &nbsp;<b>LinkedIn</b>: artuenric
+    &nbsp;<code>LinkedIn: artuenric</code>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:artuenrick.dev@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" valign="middle" alt="Gmail logo" />
-    &nbsp;<b>E-mail</b>: artuenrick.dev@gmail.com
+    &nbsp;<code>E-mail: artuenrick.dev@gmail.com</code>
   </a>
 </p>
 

@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo **[Covil](https://covildev.com)**. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software.
 
----
+<br>
 
 ### 💻 Tecnologias
 
@@ -24,8 +24,6 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 </p>
 
 <br>
-
----
 
 ### 🚩 Contato
 

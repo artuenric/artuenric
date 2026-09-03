@@ -1,7 +1,7 @@
 # Arthur Pimentel
 
 Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo **[Covil](https://covildev.com)**. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software.
-## 💻 Tecnologias
+## Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" valign="middle" alt="Python logo" /> <b>Python</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" valign="middle" alt="Java logo" /> <b>Java</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" valign="middle" alt="Docker logo" /> <b>Docker</b>
 </p>
 
-## 🚩 Contato
+## Contato
 
 Você pode me contatar pelo Linkedin ou E-mail:
 

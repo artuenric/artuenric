@@ -1,5 +1,17 @@
 # Arthur Pimentel
+
+> *"Desenvolvo experiências digitais e produtos que aproximam tecnologia, clareza e propósito."*
+
 Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo **[Covil](https://covildev.com)**. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software.
+
+---
+
+### 📌 Trajetória & Atuação
+
+- **🎓 UFPA:** Ciência da Computação (2022 - 2026). Formação focada em engenharia de software, sistemas distribuídos, redes e bancos de dados.
+- **🔬 GERCOM:** Pesquisa e desenvolvimento em Redes de Computadores e Computação Quântica. Projetos em Python, Docker, infraestrutura e manutenção.
+- **📊 DIAVI (Reitoria UFPA):** Desenvolvimento do portal institucional de análise de dados com Next.js, PostgreSQL e arquitetura Serverless.
+- **🚀 Covil:** Cofundador do grupo focado em desenvolvimento de produtos, aplicativos Android (Kotlin), sistemas web (React/Next.js) e backends (Java/Spring Boot).
 
 ---
 
@@ -7,58 +19,20 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 
 <br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python logo" /><br><br>
-        <b>Python</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="Java logo" /><br><br>
-        <b>Java</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" alt="Spring Boot logo" /><br><br>
-        <b>Spring Boot</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="52" alt="Kotlin logo" /><br><br>
-        <b>Kotlin</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="52" alt="Jetpack Compose logo" /><br><br>
-        <b>Jetpack Compose</b>
-      </td>
-    </tr>
-    <tr><td height="24"></td></tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="52" alt="Next.js logo" /><br><br>
-        <b>Next.js</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React logo" /><br><br>
-        <b>React</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="52" alt="PostgreSQL logo" /><br><br>
-        <b>PostgreSQL</b>
-      </td>
-      <td width="20"></td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" alt="Docker logo" /><br><br>
-        <b>Docker</b>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" valign="middle" alt="Python logo" /> <b>Python</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" valign="middle" alt="Java logo" /> <b>Java</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" valign="middle" alt="Spring Boot logo" /> <b>Spring Boot</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32" height="32" valign="middle" alt="Kotlin logo" /> <b>Kotlin</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="32" height="32" valign="middle" alt="Jetpack Compose logo" /> <b>Jetpack Compose</b>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" valign="middle" alt="Next.js logo" /> <b>Next.js</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" valign="middle" alt="React logo" /> <b>React</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" valign="middle" alt="PostgreSQL logo" /> <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" valign="middle" alt="Docker logo" /> <b>Docker</b>
+</p>
 
 <br>
 
@@ -68,49 +42,28 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 
 <br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="left">
-        <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="34" valign="middle" alt="LinkedIn logo" />
-          &nbsp;&nbsp;<b>LinkedIn</b>: linkedin.com/in/artuenric
-        </a>
-      </td>
-      <td width="40"></td>
-      <td align="left">
-        <a href="mailto:artuenrick.dev@gmail.com">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="34" height="34" valign="middle" alt="Gmail logo" />
-          &nbsp;&nbsp;<b>E-mail</b>: artuenrick.dev@gmail.com
-        </a>
-      </td>
-    </tr>
-    <tr><td height="16"></td></tr>
-    <tr>
-      <td align="left">
-        <a href="https://wa.me/5591986402937" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="34" height="34" valign="middle" alt="WhatsApp logo" />
-          &nbsp;&nbsp;<b>WhatsApp</b>: +55 91 98640-2937
-        </a>
-      </td>
-      <td width="40"></td>
-      <td align="left">
-        <a href="https://scholar.google.com/citations?hl=en&user=Wm2qsHQAAAAJ" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="34" height="34" valign="middle" alt="Google Scholar logo" />
-          &nbsp;&nbsp;<b>Google Scholar</b>: Publicações & Pesquisa
-        </a>
-      </td>
-    </tr>
-    <tr><td height="16"></td></tr>
-    <tr>
-      <td align="left" colspan="3">
-        <a href="https://covildev.com" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="34" height="34" valign="middle" alt="Covil logo" />
-          &nbsp;&nbsp;<b>Covil Dev</b>: covildev.com
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" valign="middle" alt="LinkedIn logo" />
+    &nbsp;<b>LinkedIn</b>: artuenric
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:artuenrick.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="28" valign="middle" alt="Gmail logo" />
+    &nbsp;<b>E-mail</b>: artuenrick.dev@gmail.com
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=Wm2qsHQAAAAJ" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" height="28" valign="middle" alt="Google Scholar logo" />
+    &nbsp;<b>Google Scholar</b>: Publicações
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://covildev.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="28" height="28" valign="middle" alt="Covil logo" />
+    &nbsp;<b>Covil Dev</b>: covildev.com
+  </a>
+</p>
 
 <br>

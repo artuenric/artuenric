@@ -19,7 +19,7 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 
 ## 🚩 Contato
 
-Você pode me contatar pelo Linkedin
+Você pode me contatar pelo Linkedin ou E-mail:
 
 - <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" valign="middle" alt="LinkedIn logo" />
@@ -29,4 +29,4 @@ Você pode me contatar pelo Linkedin
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" valign="middle" alt="Gmail logo" />
   </a> <kbd>E-mail: artuenrick.dev@gmail.com</kbd>
 
-Conheça também o meu grupo de desenvolvimento **[Covil](https://covildev.com)**.
+Conheça também o meu grupo de desenvolvimento **[Covil](https://covildev.com)** :)

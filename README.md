@@ -1,19 +1,6 @@
 # Arthur Pimentel
 
-> *"Desenvolvo experiências digitais e produtos que aproximam tecnologia, clareza e propósito."*
-
 Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo **[Covil](https://covildev.com)**. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software.
-
----
-
-### 📌 Trajetória & Atuação
-
-- **🎓 UFPA:** Ciência da Computação (2022 - 2026). Formação focada em engenharia de software, sistemas distribuídos, redes e bancos de dados.
-- **🔬 GERCOM:** Pesquisa e desenvolvimento em Redes de Computadores e Computação Quântica. Projetos em Python, Docker, infraestrutura e manutenção.
-- **📊 DIAVI (Reitoria UFPA):** Desenvolvimento do portal institucional de análise de dados com Next.js, PostgreSQL e arquitetura Serverless.
-- **🚀 Covil:** Cofundador do grupo focado em desenvolvimento de produtos, aplicativos Android (Kotlin), sistemas web (React/Next.js) e backends (Java/Spring Boot).
-
----
 
 ### 💻 Tecnologias
 

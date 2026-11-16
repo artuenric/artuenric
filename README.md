@@ -1,6 +1,6 @@
 # Arthur Pimentel
 
-Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo **[Covil](https://covildev.com)**. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software.
+Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo Covil. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software. Você pode ver meu portifólio clicando [aqui](arthur.covildev.com).
 ## Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" valign="middle" alt="Python logo" /> <b>Python</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
@@ -29,4 +29,4 @@ Você pode me contatar pelo Linkedin ou E-mail:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" valign="middle" alt="Gmail logo" />
   </a> <kbd>E-mail: artuenrick.dev@gmail.com</kbd>
 
-Conheça também o meu grupo de desenvolvimento **[Covil](https://covildev.com)** :)
+Conheça também o meu grupo de desenvolvimento **[Covil Dev](https://covildev.com)** :)
